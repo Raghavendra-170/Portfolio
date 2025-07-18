@@ -4,10 +4,10 @@ A dynamic and responsive personal portfolio website showcasing my projects, skil
 
 ## 🌐 Live Demo
 
-> [https://raghavendra-protfolio.netlify.app/]
+ https://raghavendra-protfolio.netlify.app/
 
 
-## 📦 GitHub Repository [https://github.com/Raghavendra-170/Portfolio.git]
+## 📦 GitHub Repository https://github.com/Raghavendra-170/Portfolio.git
 
  ## 🎯 Features
 
@@ -51,6 +51,6 @@ A dynamic and responsive personal portfolio website showcasing my projects, skil
 ## 🚀 How to Run Locally
 
 1. Clone the repository or download the ZIP:
-   ```bash
+   ```
    git clone https://github.com/your-username/your-repo-name.git
-  ```  
+  ```
