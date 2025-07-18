@@ -1,11 +1,8 @@
-## 👨‍💻 Personal Portfolio Website
+# 👨‍💻 Personal Portfolio Website
 
 A dynamic and responsive personal portfolio website showcasing my projects, skills, certifications, and contact information. Built with HTML, CSS, and Bootstrap, this website helps visitors learn more about my technical background and experience in web development.
 
 ## 🌐 Live Demo  https://raghavendra-protfolio.netlify.app/
-
-
-
 
 ## 📦 GitHub Repository https://github.com/Raghavendra-170/Portfolio.git
 
@@ -54,3 +51,6 @@ A dynamic and responsive personal portfolio website showcasing my projects, skil
 ```
  git clone https://github.com/your-username/your-repo-name.git
 ```
+## 📄 License
+
+This project is free to use and modify for educational or personal use.
