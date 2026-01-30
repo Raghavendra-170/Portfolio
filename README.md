@@ -23,10 +23,10 @@ A dynamic and responsive personal portfolio website showcasing my projects, skil
 - **Version Control:** Git & GitHub
 
 ## Folder Structure
-
+```
 ├── index.html # Main HTML file containing the structure of the app
 ├── style.css # CSS file for styling the interface
-
+```
 ## 💡 Features
 
 - Responsive layout
